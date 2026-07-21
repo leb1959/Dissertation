@@ -1,0 +1,104 @@
+Перелік джерел для Розділу 1 дисертації — прямі посилання
+
+============================================================
+
+
+01. ЗУ_1264_1991_охорона_довкiлля
+
+    https://zakon.rada.gov.ua/go/1264-12
+
+
+02. WHO_Ambient_outdoor_air_pollution
+
+    https://www.who.int/news-room/fact-sheets/detail/ambient-%28outdoor%29-air-quality-and-health
+
+
+03. WHO_AQG_2021
+
+    https://www.who.int/publications/i/item/9789240034228
+
+
+04. EEA_How_air_pollution_affects_health
+
+    https://www.eea.europa.eu/en/topics/in-depth/air-pollution/how-it-affects-our-health
+
+
+05. ЗУ_2707_1992_охорона_атм_повiтря
+
+    https://zakon.rada.gov.ua/go/2707-12
+
+
+06. ЗУ_2973_2023_змiни_ДСМД
+
+    https://zakon.rada.gov.ua/go/2973-20
+
+
+07. КМУ_827_2019_монiторинг_атм_повiтря
+
+    https://zakon.rada.gov.ua/go/827-2019-%D0%BF
+
+
+08. КМУ_513_2024_змiни_до_827_614
+
+    https://zakon.rada.gov.ua/go/513-2024-%D0%BF
+
+
+09. МВС_300_2021_розмiщення_пунктiв
+
+    https://zakon.rada.gov.ua/go/z0635-21
+
+
+10. Мiндовкiлля_590_2025_iндекс_якостi_повiтря
+
+    https://zakon.rada.gov.ua/go/z0536-25
+
+
+11. КМУ_684_2024_система_монiторингу_довкiлля
+
+    https://zakon.rada.gov.ua/go/684-2024-%D0%BF
+
+
+12. Мiндовкiлля_GreenPaper_2022
+
+    https://mepr.gov.ua/wp-content/uploads/2023/02/Monitoring-Green-Paper_15_02_2022.pdf
+
+
+13. ЦГО_Огляд_2024_повний
+
+    https://cgo-sreznevskyi.kyiv.ua/images/%D0%9E%D0%93%D0%9B%D0%AF%D0%94_2024_%D0%BF%D0%BE%D0%B2%D0%BD%D0%B8%D0%B9_%D0%B2%D0%B0%D1%80%D1%96%D0%B0%D0%BD%D1%82doc_1-%D1%81%D0%B6%D0%B0%D1%82%D1%8B%D0%B9.pdf
+
+
+14. ЦГО_Огляд_I_пiврiччя_2025
+
+    https://cgo-sreznevskyi.kyiv.ua/images/oglyad-stanu-zabrudnennya_-%D0%86_-2025.pdf
+
+
+15. EU_Directive_2008_50_air_quality
+
+    https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ%3AL%3A2008%3A152%3AFULL
+
+
+16. EU_Directive_2024_2881_air_quality
+
+    https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ%3AL_202402881
+
+
+17. EEA_Benchmark_2024_2881_2025
+
+    https://www.eea.europa.eu/en/analysis/publications/air-quality-status-report-2025/benchmark-analysis-against-the-standards-in-the-revised-directive-eu-2024-2881
+
+
+18. EN_16450_2017_AMS_PM
+
+    https://standards.iteh.ai/catalog/standards/cen/21722c9a-74b9-4f47-901c-40ecec95dcfe/en-16450-2017
+
+
+19. ISO_11222_2002_uncertainty
+
+    https://www.iso.org/standard/32066.html
+
+
+20. Мiнприроди_309_2006_нормативи_ГДВ
+
+    https://zakon.rada.gov.ua/go/z0912-06
+
